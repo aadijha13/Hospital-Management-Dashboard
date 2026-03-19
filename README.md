@@ -1,3 +1,4 @@
+<img width="1438" height="818" alt="Screenshot 2026-03-19 at 11 35 24 PM" src="https://github.com/user-attachments/assets/12e37235-c8a7-4b87-b116-8b6ecd8586b9" />
 # 🏥 Hospital Management Dashboard
 
 ## 📌 Dashboard Goal
